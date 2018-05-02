@@ -1,5 +1,7 @@
 # 画面イメージ
 
+<img width="100px" height="auto" src="./img00.jpg">
+
 仮タイトル：足すと３
 
 # 操作方法
