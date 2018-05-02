@@ -1,6 +1,6 @@
 # 画面イメージ
 
-<img width="100px" height="auto" src="./img00.jpg">
+<img height="300px" src="./img00.jpg"><img height="300px" src="./img01.png">
 
 仮タイトル：足すと３
 
